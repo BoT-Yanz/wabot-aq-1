@@ -20,7 +20,7 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['7922416516']// Put your number here
+global.owner = ['6281395861695']// Put your number here
 
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -79,19 +79,19 @@ fs.watchFile(file, () => {
 })
 
 // Tambahan By Me (RyuuZeyy)
-gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
-gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
-gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
-namaig = 'https://instagram.com/bah.raid'
+gc1 = 'https://chat.whatsapp.com/KghOSWVL9aMDc4ZzCgOSoX'
+gc2 = ''
+gc3 = ''
+namaig = 'https://www.instagram.com/invites/contact/?i=1lbwq2xorifl2&utm_content=ic0cvm0'
 linkf = gc1
 linkff = namaig
-namabot = 'ChokiBot'
-namagithub = 'https://github.com/RTeam1'
+namabot = 'Yanz BOT'
+namagithub = 'https://github.com/BoT-Yanz'
 gcid = '972502255007-1406453544'
-footer = 'ChokiBot'
+footer = 'YanzBot'
 lolkey = 'rey2k21'
 global.wait = 'Tunggu Sebentar'
-bc = 'Choki'
+bc = 'Yanz Zex's'
 titler = '𝙍𝙚𝙖𝙡 𝙁𝙖𝙢𝙨 𝙆𝙞𝙡𝙡𝙚𝙧'
 body = run
 kasihcaption = `©${namaig}\n\n©${namagithub}`
