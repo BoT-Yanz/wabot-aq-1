@@ -49,7 +49,7 @@ const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
 //var sticker_author = 'Nurutomo'
-var sticker_name = 'X - RyuuZeyy' // ganti aja
+var sticker_name = 'Yanz Zex's' // ganti aja
 var sticker_author = '' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
